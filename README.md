@@ -33,3 +33,10 @@
 <br/>
 
 ---
+
+### 📫 Contact Me
+
+- 💼 LinkedIn: [Daniel Palenzuela en LinkedIn](https://www.linkedin.com/in/danielpalenzuelamora)
+- ✉️ Email: danielpalenzuelamora90@gmail.com
+- 🌐 Portfolio: [palenzuelamoradev.github.io](https://palenzuelamoradev.github.io)
+- 📁 Descargar CV: [DanielPalenzuela-CV.pdf](./DanielPalenzuela-CV.pdf)
